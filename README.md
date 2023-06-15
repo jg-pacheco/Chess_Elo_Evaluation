@@ -1,8 +1,5 @@
 # Predicting Chess Match Outcomes Using Machine Learning
 
-## Javier Pacheco, Harsh Praharaj, Aydin Schwartz, Kevin Kimmel, Alex Bradshaw
-
-
 ## Problem/Motivation Statement
 
 The game of chess has been played for thousands of years. Since the very first chess
